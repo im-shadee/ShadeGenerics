@@ -11,7 +11,7 @@
   "licensesUrl": "https://github.com/im-shadee/ShadeGenerics/blob/main/LICENSE",
   "documentationUrl": "https://github.com/im-shadee/ShadeGenerics",
   "dependencies": {
-    "com.unity.inputsystem": "1.11.0"
+    "com.unity.inputsystem": "1.13.0"
   }
 }
 
