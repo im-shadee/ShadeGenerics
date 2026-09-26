@@ -1,0 +1,17 @@
+{
+  "name": "com.shade.generics",
+  "version": "0.1.0",
+  "displayName": "ShadeGenerics",
+  "description": "A collection of useful scripts for Unity setups.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Shade"
+  },
+  "license": "MIT",
+  "licensesUrl": "https://github.com/im-shadee/ShadeGenerics/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/im-shadee/ShadeGenerics",
+  "dependencies": {
+    "com.unity.inputsystem": "1.11.0"
+  }
+}
+
